@@ -1,3 +1,3 @@
 # SpintroUI
 
-Test 1 trigger for Spinnaker
+Test 2 trigger for Spinnaker
